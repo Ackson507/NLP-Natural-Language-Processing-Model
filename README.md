@@ -1,11 +1,12 @@
 # Natural-Language-Processing-Model
-Here, we will implement these steps to build a language model in NLP. NLP focuses on the interaction between computers and human language, enabling machines to understand, interpret, and generate human language in a way that is both meaningful and useful.
+Here, we will implement these steps to build a language model in NLP. NLP focuses on the interaction between computers and human language, enabling machines to understand, interpret, and generate human language in a way that is both meaningful and useful. Will use our default loacal language Python
+
 ![1_HgXA9v1EsqlrRDaC_iORhQ](https://github.com/Ackson507/NLP-Natural-Language-Processing-Model/assets/84422970/315f724f-ab31-468b-b083-bdd931ca6061)
 
 
 
 ### Overview
-This project aims to develop a Natural Language Processing (NLP) model for classifying patient reviews to determine the type of disease or medical condition they are experiencing. By analyzing patient reviews, healthcare providers can gain insights into the prevalence of various diseases or conditions among their patient population, which can inform treatment strategies and overall patient care.
+This project aims to develop a Natural Language Processing (NLP) model for classifying patient reviews to determine the type of disease or medical condition they are experiencing. By analyzing patient reviews, healthcare providers can gain insights into the prevalence of various diseases or conditions among their patient population, which can inform treatment strategies and overall patient care. Will use python language for this model.
 
 ### Problem Statement
 Problem Statement: Develop an NLP model to classify patient reviews and identify the type of disease or medical condition mentioned in the reviews.
